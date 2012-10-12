@@ -2,7 +2,7 @@
 /**
  * TBFix
  * 
- * Fix the toolbar for MODX Revo.
+ * Fix the toolbar for MODX Evo.
  * @author	 Ryota Mannari <info@manse.jp>
  * @events OnChunkFormRender, OnDocFormRender, OnModFormRender, OnSnipFormRender, OnTempFormRender, OnPluginFormRender, OnUserSettingsRender, OnUserFormRender, OnTVFormRender, OnWUsrFormRender
  * @modx_category Manager and Admin

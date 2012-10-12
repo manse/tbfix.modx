@@ -1,12 +1,12 @@
-# TBFix for MODX Revo
+# TBFix for MODX Evo
 
-Fix the toolbar for MODX Revo.
+Fix the toolbar for MODX Evo.
  * Remove the save mode selector.
  * Make by default the save mode "Continue editing", and add a "Add another" button.
 
 ## Requirements
 
- * MODX Revolution 1.0.5 or greater.
+ * MODX Evolution 1.0.5 or greater.
 
 ## Installation
 
