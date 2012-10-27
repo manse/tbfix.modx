@@ -1,5 +1,7 @@
 # TBFix for MODX Evo
 
+![screenshot](https://raw.github.com/manse/tbfix.modx/master/screenshot.png)
+
 Fix the toolbar for MODX Evo.
  * Remove the save mode selector.
  * Make by default the save mode "Continue editing", and add a "Add another" button.
